@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 58AD3CDACC488923 1515639216 -0500\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_hardware_libhardware_legacy\nnonce 1515639217-86136783A4D2946E7E3BDE4FF665EAE04A6FE80B\n\n0000000000000000000000000000000000000000 daa4ac78e27d62bc090cb44bf3ef2e3ef644e7d1 refs/for/cr-6.1/wlan_updates_caf\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEYQVPO71c7y9uUbTUWK082sxIiSMFAlpW0bAACgkQWK082sxI\niSMqxgf/ZZtmEAo4HNnFCtJjE+kRB1UoQXLVYHZQLXiX5l3QuBAqol1HNCWUjswj\nq2E6vul5xjweIHoWA9PY0bObDVOgjS+YacavisjmuPYJeX9iCHSaLEV0RkiOQxdO\nfqBO75M63XOikCTZgjn5ZZPoM2MFbD0wX2rgga8eOAG5/ti6iHBKcffoGOtVj4Nz\nU0wafqmUaqVgUHPIYOWVJiZ2HZsEfAOep21/3iJZafcpm81SAgp/U0yjQV5RxrFw\nXG2GF3WNaHhwbMV3JV2LLIunO9NitbXyrCkUadSdXeIbdsOimEgobWQ2Yv5lH63d\nmFT71G4jwObv4CPlDwzFP8VUNDB0xA\u003d\u003d\n\u003dRpdY\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
